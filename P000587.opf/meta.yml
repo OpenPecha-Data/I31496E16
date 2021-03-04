@@ -1,16 +1,17 @@
-id: opecha:P000587
+id: P000587
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG4000
   title: གཡག་རྒྱལ་གཏེར་སྟོན་བཟང་པོ་རྡོ་རྗེའི་གཏེར་བྱོན་སྲིན་རྒྱལ་བདུད་འདུལ་དྲག་པོའི་སྒྲུབ་ཐབས་ཡང་ཟབ་རྡོ་རྗེ་ཕ་ལམ་གྱི་ཆོས་སྡེ་
-  volume:
+  author: ''
+  volumes:
     1154129e336a4583b73c4507b0a85534:
       image_group_id: I1KG4070
       title: Volume 1 of g.yag rgyal gter ston bzang po rdo rje'i gter byon srin rgyal
         bdud 'dul drag po'i sgrub thabs yang zab rdo rje pha lam gyi chos sde
       volume_number: 1
       total_pages: 288
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གཡག་རྒྱལ་གཏེར་སྟོན་བཟང་པོ་རྡོ་རྗེའི་གཏེར་བྱོན་སྲིན་རྒྱལ་བདུད་འདུལ་དྲག་པོའི་སྒྲུབ་ཐབས་ཡང་ཟབ་རྡོ་རྗེ་ཕ་ལམ་གྱི་ཆོས་སྡེ་
   author: ''
